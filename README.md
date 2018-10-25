@@ -10,17 +10,16 @@
 6. Create a branch on that folder to be able to make changes to the files (and files in subfolders).
     - To create a new branch and switch to the branch at the same time, run the git checkout -b `<branch_name>`. Learn more about [git checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout) command.
 7. Run `git branch` to verify that you are on the branch you just created.
-7. Git status.
-8. Git push origin <branch_name> to create a remote copy of your branch on GitHub.
+7. Run `git status` to verify that there are no uncommitted changes and your branch is up to date.
+8. Run `git push origin <branch_name>` to create a remote copy of your branch on GitHub.
 9. Proofedit and structure the content following the Technical Writing best practices. See MSTP for reference. 
-10. Git add .
-11. Git `commit -a`.  
-  - Add the details of the changes made and are ready to committed
-12. Run git push origin <branch_name>
+10. Run `git add .`
+11. Run `git commit -a` to add a brief details of the changes you made and are ready to be committed.
+12. Run `git push origin <branch_name>`.
 13. Go to Github and compare and create a pull request
 14. Verify both the origin and branch that you want to merge. This merges your fork to master.
 15. Add comment.
-16. Merge pull
+16. Merge pull.
 
  
 ## Tutorial 2: Change the location of the Getting Started topic. 
