@@ -16,10 +16,10 @@
 10. Run `git add .`
 11. Run `git commit -a` to add a brief details of the changes you made and that are ready to be committed.
 12. Run `git push origin <branch_name>`.
-13. Go to Github and Create a pull request. [See this screenshot](https://thoughtspot.atlassian.net/wiki/spaces/TC/pages/373817352/Create+personal+named+branches+to+separate+work+into+multiple+pull+requests?preview=/373817352/374603777/personal-branch-create-PR.png).
+13. Go to Github and click __Create a pull request__. [See this screenshot](https://thoughtspot.atlassian.net/wiki/spaces/TC/pages/373817352/Create+personal+named+branches+to+separate+work+into+multiple+pull+requests?preview=/373817352/374603777/personal-branch-create-PR.png).
 14. Verify both the origin and branch that you want to merge. This merges your fork to master.
 15. Add comment.
-16. Merge pull request.
+16. Click __Merge Pull request__.
 
  
 ## Tutorial 2: Change the location of the Getting Started topic. 
