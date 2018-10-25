@@ -20,6 +20,7 @@
 14. Verify both the origin and branch that you want to merge. This merges your fork to master.
 15. Add comment.
 16. Click __Merge Pull request__.
+17. Click __Confirm Merge__ to apply the changes to the repo.
 
  
 ## Tutorial 2: Change the location of the Getting Started topic. 
