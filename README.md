@@ -14,9 +14,9 @@
 8. Run `git push origin <branch_name>` to create a remote copy of your branch on GitHub.
 9. Proofedit and structure the content following the Technical Writing best practices. See MSTP for reference. 
 10. Run `git add .`
-11. Run `git commit -a` to add a brief details of the changes you made and are ready to be committed.
+11. Run `git commit -a` to add a brief details of the changes you made and that are ready to be committed.
 12. Run `git push origin <branch_name>`.
-13. Go to Github and compare and create a pull request
+13. Go to Github and Create a pull request. [See this screenshot](https://thoughtspot.atlassian.net/wiki/spaces/TC/pages/373817352/Create+personal+named+branches+to+separate+work+into+multiple+pull+requests?preview=/373817352/374603777/personal-branch-create-PR.png).
 14. Verify both the origin and branch that you want to merge. This merges your fork to master.
 15. Add comment.
 16. Merge pull request.
