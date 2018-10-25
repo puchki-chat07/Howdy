@@ -19,7 +19,7 @@
 13. Go to Github and compare and create a pull request
 14. Verify both the origin and branch that you want to merge. This merges your fork to master.
 15. Add comment.
-16. Merge pull.
+16. Merge pull request.
 
  
 ## Tutorial 2: Change the location of the Getting Started topic. 
