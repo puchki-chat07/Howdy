@@ -4,12 +4,11 @@
 2. Navigate to your home folder from Users > folder with your user name.
 3. Create a folder on your local machine.
 4. Clone the repo into the folder you created.
-    - Run 
-5. Navigate to get-started.md file.
-6. Make a copy of the get-started.md file.
-Create a branch on that folder to be able to make changes to the files (and files in subfolders). 
-    - Run 
-6. Git branch.
+    - Run `git clone git@github.com:puchki-chat07/Howdy.git` to clone the repo. Learn more about the [`git clone` command] (https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository). 
+5. Navigate to the `getstarted.md` file.
+6. Create a branch on that folder to be able to make changes to the files (and files in subfolders).
+    - To create a new branch and switch to the branch at the same time, run the git checkout -b `<branch_name>`.
+7. Run `git branch` to verify that you are on the branch you just created.
 7. Git status.
 8. Git push origin <branch_name> to create a remote copy of your branch on GitHub.
 9. Proofedit and structure the content following the Technical Writing best practices. See MSTP for reference. 
