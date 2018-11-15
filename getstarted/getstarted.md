@@ -5,7 +5,7 @@ Download source code- Unpack the downloaded zip file. This will unpack a root fo
 The step-NN folders contain the desired end state of each step of this codelab. They are there for reference. We’ll be doing all our coding work in a directory called work.
 Install and verify web server- While you’re free to use your own web server, this codelab is designed to work well with the Chrome Web Server. If you don't have that app installed yet, you can install it from the Chrome Web Store.
 
-Install Web Server for Chrome- After installing the Web Server for Chrome app, click on the Apps shortcut on the bookmarks bar:
+Install Web Server for Chrome- After installing the Web Server for Chrome app, click on the Apps shortcut on the bookmarks bar.
 In the ensuing window, click on the Web Server icon:
 You’ll see this dialog next, which allows you to configure your local web server. Click the choose folder button, and select the work folder. This will enable you to serve your work in progress via the URL highlighted in the web server dialog (in the Web Server URL(s) section).
 
