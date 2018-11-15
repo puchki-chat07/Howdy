@@ -21,7 +21,7 @@ This codelab will walk you through creating your own Progressive Web App, includ
 
 # What you will build
 
-In this codelab, you're going to build a Weather web app using Progressive Web App techniques. Your app will:
+In this code lab, you're going to build a Weather web app using Progressive Web App techniques. Your app will:
 Utilize and demonstrate the above principles of Progressive Web Apps.
 Use live weather data.
 Provide app-like interactions to allow the user to add cities.
